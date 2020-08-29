@@ -9,7 +9,7 @@ Gosto de criar coisas e automatizar processos, incluindo o processo de criação
 - 🎮 Desenvolvedor de jogos amador nos tempos livres utilizando a [melhor engine do mundo](https://godotengine.org/)  💜
 - 👹 Meio otakinho
 - 🖥️ PC Masterace
-- 📺 Fã de The Office
+- 📺 Fã de The Office e Breaking Bad
 - 🐳 Fascinado por [Orcas](https://pt.wikipedia.org/wiki/Orca) por algum motivo
 - 💀 Undertale best game ever
 
@@ -28,6 +28,7 @@ Pretendo utilizar a tecnologia para criar soluções para melhorar a vida das pe
 Procuro contribuir em algum projeto open-source que utiliza Node.Js, se você tem alguma coisa em mente, ou algo que já está rolando, entra em contato comigo 🙂
 
 ## Contato
+- Linkedin: https://www.linkedin.com/in/barbosathiagodev/
 - Twitter: @itsadeadh2
 - E-mail: itsadeadh2@gmail.com
 - Discord: itsadeadh2#1489
