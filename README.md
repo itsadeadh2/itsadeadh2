@@ -21,14 +21,14 @@ Pretendo utilizar a tecnologia para criar soluções para melhorar a vida das pe
 
 - Inserido *heads on* no ecossistema do Node.js como desenvolvedor back-end. Eventualmente me aventuro brincando com o python para fazer umas automatizações malucas, e as vezes tenho que lidar com algum php aqui e ali.
 - *Conteinerizando* tudo que passa pela minha frente.  Desde que descobrir sobre o Docker minha vida nunca mais foi a mesma.
-- Apaixonado pelo comodidade e segurança que o Kubernetes dá
+- Apaixonado pela comodidade e segurança que o Kubernetes dá
 
 ## Colaborações
 
 Procuro contribuir em algum projeto open-source que utiliza Node.Js, os pontos que estou mais interessados no momento são:
 - Desenvolvimento pessoal
 - Produtividade
-- Estudo
+- Estudos
 - Libertárianismo
 
 P.S: Se o seu projeto não se encaixar, não tem problema, os tópicos são apenas para dar um panorama geral 🙂
