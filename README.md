@@ -4,13 +4,6 @@
 
 Gosto de criar coisas e automatizar processos, incluindo o processo de criação dessas coisas (*inception you could say*) e ajudar pessoas com as coisas que crio, incluindo eu mesmo.
 
-- 🎮 Desenvolvedor de jogos amador nos tempos livres utilizando a [melhor engine do mundo](https://godotengine.org/)  💜
-- 👹 Meio otakinho
-- 🖥️ PC Masterace
-- 📺 Fã de The Office
-- 🐳 Fascinado por [Orcas](https://pt.wikipedia.org/wiki/Orca) por algum motivo
-- 💀 Undertale best game ever
-
 ## Futuro
 
 Pretendo utilizar a tecnologia para criar soluções para melhorar a vida das pessoas.  E em algum ponto pretendo abrir um estúdio de desenvolvimento de jogos indie para expressar algumas ideias e conceitos que tenho com meu tipo de mídia favorito: Jogos.
@@ -24,6 +17,15 @@ Pretendo utilizar a tecnologia para criar soluções para melhorar a vida das pe
 ## Colaborações
 
 Procuro contribuir em algum projeto open-source que utiliza Node.Js, se você tem alguma coisa em mente, ou algo que já está rolando, entra em contato comigo 🙂
+
+## Fun facts
+
+- 🎮 Desenvolvedor de jogos amador nos tempos livres utilizando a [melhor engine do mundo](https://godotengine.org/)  💜
+- 👹 Meio otakinho
+- 🖥️ PC Masterace
+- 📺 Fã de The Office
+- 🐳 Fascinado por [Orcas](https://pt.wikipedia.org/wiki/Orca) por algum motivo
+- 💀 Undertale best game ever
 
 ## Contato
 Twitter: @itsadeadh2
