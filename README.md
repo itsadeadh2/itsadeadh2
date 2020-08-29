@@ -1,6 +1,6 @@
 ### Pessoas são máquinas de criar realidade 🧑‍🚀
 -----
-####Thiago Barbosa
+#### Thiago Barbosa
 -----
 Gosto de criar coisas e automatizar processos, incluindo o processo de criação dessas coisas (*inception you could say*) e ajudar pessoas com as coisas que crio, incluindo eu mesmo.
 
@@ -11,7 +11,7 @@ Gosto de criar coisas e automatizar processos, incluindo o processo de criação
 - 🐳 Fascinado por [Orcas](https://pt.wikipedia.org/wiki/Orca) por algum motivo
 - 💀 Undertale best game ever
 
-####Futuro
+#### Futuro
 -----
 Pretendo utilizar a tecnologia para criar soluções para melhorar a vida das pessoas.  E em algum ponto pretendo abrir um estúdio de desenvolvimento de jogos indie para expressar algumas ideias e conceitos que tenho com meu tipo de mídia favorito: Jogos.
 
@@ -21,11 +21,11 @@ Pretendo utilizar a tecnologia para criar soluções para melhorar a vida das pe
 - *Conteinerizando* tudo que passa pela minha frente.  Desde que descobrir sobre o Docker minha vida nunca mais foi a mesma.
 - Apaixonado pelo comodidade e segurança que o Kubernetes dá
 
-####Colaborações
+#### Colaborações
 -----
 Procuro contribuir em algum projeto open-source que utiliza Node.Js, se você tem alguma coisa em mente, ou algo que já está rolando, entra em contato comigo 🙂
 
-####Contato
+#### Contato
 Twitter: @itsadeadh2
 E-mail: itsadeadh2@gmail.com
 Discord: itsadeadh2#1489
