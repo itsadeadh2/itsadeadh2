@@ -25,7 +25,13 @@ Pretendo utilizar a tecnologia para criar soluções para melhorar a vida das pe
 
 ## Colaborações
 
-Procuro contribuir em algum projeto open-source que utiliza Node.Js, se você tem alguma coisa em mente, ou algo que já está rolando, entra em contato comigo 🙂
+Procuro contribuir em algum projeto open-source que utiliza Node.Js, os pontos que estou mais interessados no momento são:
+- Desenvolvimento pessoal
+- Produtividade
+- Estudo
+- Libertárianismo
+
+P.S: Se o seu projeto não se encaixar, não tem problema, os tópicos são apenas para dar um panorama geral 🙂
 
 ## Contato
 - Linkedin: https://www.linkedin.com/in/barbosathiagodev/
