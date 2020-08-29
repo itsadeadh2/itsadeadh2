@@ -19,7 +19,7 @@ Pretendo utilizar a tecnologia para criar soluções para melhorar a vida das pe
 
 ## Presente
 
-- Inserido *heads on* no ecossistema do Node.js como desenvolvedor back-end. Eventualmente me aventuro brincando com o python para fazer umas automatizações malucas, e eventualmente tenho que lidar com algum php aqui e ali.
+- Inserido *heads on* no ecossistema do Node.js como desenvolvedor back-end. Eventualmente me aventuro brincando com o python para fazer umas automatizações malucas, e as vezes tenho que lidar com algum php aqui e ali.
 - *Conteinerizando* tudo que passa pela minha frente.  Desde que descobrir sobre o Docker minha vida nunca mais foi a mesma.
 - Apaixonado pelo comodidade e segurança que o Kubernetes dá
 
