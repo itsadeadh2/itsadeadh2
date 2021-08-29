@@ -9,8 +9,7 @@ Gosto de criar coisas e automatizar processos, incluindo o processo de criação
 - 🎮 Desenvolvedor de jogos amador nos tempos livres (*o que significa quase nunca ultimamente*) utilizando a [melhor engine do mundo](https://godotengine.org/)  💜
 - 👹 Meio otakinho
 - 🖥️ PC Masterace
-- 📺 Fã de *The Office, Breaking Bad, Jojo e Berserk*
-- 🐳 Fascinado por [Orcas](https://pt.wikipedia.org/wiki/Orca) por algum motivo
+- 📺 Fã de *The Office, Breaking Bad, Jojo, Berserk* e *Trailer Park Boys*
 - 🤠 Red Dead Redemption 2 *Best Game Ever*
 - 📚 Leitor ávido de *Schopenhauer*
 
