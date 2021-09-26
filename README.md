@@ -1,5 +1,5 @@
 # *Sentimus, experimurque, nos aeternos esse* 🍃
-
+https://img.shields.io/endpoint?url=<URL>&style<STYLE>
 ## Thiago Barbosa
 
 Gosto de criar coisas e automatizar processos, incluindo o processo de criação dessas coisas (*inception you could say*) e ajudar pessoas com as coisas que crio, incluindo eu mesmo.
