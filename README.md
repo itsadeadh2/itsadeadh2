@@ -3,9 +3,9 @@
 ![mysql](https://img.shields.io/static/v1?label=MySQL&message=Experienced&color=green&logo=mysql)
 ![javascript](https://img.shields.io/static/v1?label=JavaScript&message=Experienced&color=green&logo=javascript)
 ![typescript](https://img.shields.io/static/v1?label=TypeScript&message=Experienced&color=green&logo=typescript)
-![Dot Net](https://img.shields.io/static/v1?label=.Net&message=Familiar&color=green&logo=yellow)
-![python](https://img.shields.io/static/v1?label=python&message=Familiar&color=green&logo=yellow)
-![java](https://img.shields.io/static/v1?label=Java&message=Familiar&color=green&logo=yellow)
+![Dot Net](https://img.shields.io/static/v1?label=.Net&message=Familiar&color=yellow&logo=dotnet)
+![python](https://img.shields.io/static/v1?label=python&message=Familiar&color=yellow&logo=python)
+![java](https://img.shields.io/static/v1?label=Java&message=Familiar&color=yellow&logo=java)
 
 ## Hello there 👋🏽 - I'm Thiago
 
