@@ -1,5 +1,4 @@
-# *Sentimus, experimurque, nos aeternos esse* 🍃
-https://img.shields.io/endpoint?url=<URL>&style<STYLE>
+![nodejs](https://img.shields.io/static/v1?label=NodeJs&message=Experienced&color=green&logo=nodedotjs)
 ## Thiago Barbosa
 
 Gosto de criar coisas e automatizar processos, incluindo o processo de criação dessas coisas (*inception you could say*) e ajudar pessoas com as coisas que crio, incluindo eu mesmo.
