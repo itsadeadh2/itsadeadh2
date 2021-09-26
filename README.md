@@ -12,8 +12,8 @@
 - I'm currently working as a Backend Engineer with the focus on the creation of REST API's, Crawlers and Routines
 - Recently, I have beeen working with [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/) and [Node](https://nodejs.org/en/). I've also been experimenting with [Nest](https://nestjs.com/) recently and have built some API's with it.
 - When it comes to infrastructure, I have experience with: [AWS](https://aws.amazon.com/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
-- I have great experience in creating integrations with third part services the most recently being [Hubspot](https://www.hubspot.com/)
 - As for continuous delivery: [GitHub Actions](https://github.com/features/actions), [GitLab CI](https://docs.gitlab.com/ee/ci/), [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) and [Jenkins](https://www.jenkins.io/).
+- I have great experience in creating integrations with third part services the most recently being [Hubspot](https://www.hubspot.com/)
 - I speak portuguese and english
 - I develop games as a hobby from time to time using [Godot](https://godotengine.org/)
 - I have a little [Youtube Channel](https://www.youtube.com/channel/UCwBtn_AbhzI1tjXMMqTsVSw) in wich I post some programming tutorials (usually stuff that I wish somebody explained better when I was learning)
