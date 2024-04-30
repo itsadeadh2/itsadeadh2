@@ -89,7 +89,7 @@ I'm a _Fullstack Developer_ and by Fullstack I mean _"Backend developer who can 
 
 ### Hobbies
 
-In my free time you'd usually find me playing some old games in one of the retro devices that I have, playing with my daughter  
+In my free time, you'd usually find me playing with my daughter, playing some old games on one of the retro devices that I have
 or debugging something that went wrong in one of my overly complicated solutions for my home devices.
 
 ### Contact:
