@@ -1,21 +1,96 @@
+## _Thiago Barbosa_
+
 ![nodejs](https://img.shields.io/static/v1?label=NodeJs&message=Experienced&color=green&logo=nodedotjs)
-![mongodb](https://img.shields.io/static/v1?label=MongoDB&message=Experienced&color=green&logo=mongodb)
-![mysql](https://img.shields.io/static/v1?label=MySQL&message=Experienced&color=green&logo=mysql)
 ![javascript](https://img.shields.io/static/v1?label=JavaScript&message=Experienced&color=green&logo=javascript)
-![typescript](https://img.shields.io/static/v1?label=TypeScript&message=Experienced&color=green&logo=typescript)
-![Dot Net](https://img.shields.io/static/v1?label=.Net&message=Familiar&color=yellow&logo=dotnet)
-![python](https://img.shields.io/static/v1?label=python&message=Familiar&color=yellow&logo=python)
-![java](https://img.shields.io/static/v1?label=Java&message=Familiar&color=yellow&logo=java)
+![python](https://img.shields.io/static/v1?label=python&message=Experienced&color=greenw&logo=python)
+![AWS](https://img.shields.io/static/v1?label=AWS&message=Experienced&color=greenw&logo=aws-lambda)
 
-## Hello there 👋🏽 - I'm Thiago
+---
+I'm a _Fullstack Developer_ and by Fullstack I mean _"Backend developer who can get around frontend if necessary"_.
 
-- I'm currently working as a Backend Engineer with the focus on the creation of REST API's, Crawlers and Routines
-- Recently, I have beeen working with [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/) and [Node](https://nodejs.org/en/). I've also been experimenting with [Nest](https://nestjs.com/) and have built some API's with it.
-- When it comes to infrastructure, I have experience with: [AWS](https://aws.amazon.com/), [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/).
-- As for continuous delivery: [GitHub Actions](https://github.com/features/actions), [GitLab CI](https://docs.gitlab.com/ee/ci/), [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) and [Jenkins](https://www.jenkins.io/).
-- I have great experience creating integrations with third part services the most recently being [Hubspot](https://www.hubspot.com/)
-- I speak portuguese and english
-- I develop games as a hobby from time to time using [Godot](https://godotengine.org/)
-- I have a little [Youtube Channel](https://www.youtube.com/channel/UCwBtn_AbhzI1tjXMMqTsVSw) in wich I post some programming tutorials (usually stuff that I wish somebody explained better when I was learning)
+### Languages:
+- Portuguese (Native)
+- English (Fluent)
 
-> My repositories are a little out of date since I'm working full time and have some personal (not programming related) projects going on, but I'm planning in developing some projects to put here to illustrate the current status of my development expertise.
+### Experience
+<details>
+<summary>Types of projects</summary>
+
+- HTTP Rest API's
+- Workers
+- Scrappers
+- Python Command Line Interfaces (CLI's)
+- Integrations of all sorts with HTTP API's such as [Hubspot](https://www.hubspot.com/)
+
+</details>
+<details>
+<summary>Tools</summary>
+
+- AWS:
+    - S3
+    - Cloudformation
+    - ECS
+    - EC2
+    - Lambda
+- GitHub/Github Actions
+- Bitbucket/Bitbucket Pipelines
+- Docker
+- Docker Compose
+- Popular relational databases (MySQL, PostGres, etc)
+- Popular non-relational databases (MongoDB, MariaDB, etc)
+- Linux
+
+</details>
+
+### Projects
+<details>
+<summary>Luna CLI</summary>
+
+> Luna is a command-line interface (CLI) tool designed to manage the upload of folders to AWS S3 buckets efficiently by preserving the directory structure and skipping unchanged files. It utilizes Python, Boto3, and the tqdm library to facilitate this process.
+> 
+> **Stack:** _**python**, **boto3**, **AWS S3**, **CLI**_
+> 
+> [**Git Repo**](https://github.com/itsadeadh2/luna-cli)
+ 
+</details>
+
+<details>
+<summary>Syncthing Setups</summary>
+
+> Collection of syncthing setups that I use to sync my save states between my retro devices.
+> 
+> **Stack:** _**bash scripting**, **AWS cloudformation**, **AWS ECS**, **AWS EFS**_
+> 
+> [**Git Repo**](https://github.com/itsadeadh2/syncthing-setups)
+ 
+</details>
+
+<details>
+<summary>Batocera FileBrowser</summary>
+
+> Add FileBrowser to Batocera
+> 
+> **Stack:** _**bash scripting**_
+> 
+> [**Git Repo**](https://github.com/itsadeadh2/batocera-filebrowser)
+ 
+</details>
+
+<details>
+<summary>PAT CLI</summary>
+
+> PAT is a command-line interface tool designed to automatically add docstrings to Python files.
+> 
+> **Stack:** _**python**, **CLI**, **Chat GPT's Assistants**_
+> 
+> [**Git Repo**](https://github.com/itsadeadh2/pat)
+ 
+</details>
+
+### Hobbies
+
+In my free time you'd usually find me playing some old games in one of the retro devices that I have, playing with my daughter  
+or debugging something that went wrong in one of my overly complicated solutions for my home devices.
+
+### Contact:
+[Linkedin](https://www.linkedin.com/in/barbosathiagodev/)
